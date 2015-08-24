@@ -5,7 +5,7 @@ namespace WebJob
     {
         static Main(string[] args)
         {
-           Console.WriteLine("Hello Dnx!")
+           Console.WriteLine("Hello Dnx!");
         }
     }
 }
